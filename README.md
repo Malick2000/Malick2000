@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 am Malick
 
-hello am Malick
+- i love to code 
+- corrently i am studying web-development and i am open to so many technologis and any new tech available i will always run to it 
+- my dream is the become the best of the best in the world    
 <!--
 **Malick2000/Malick2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
